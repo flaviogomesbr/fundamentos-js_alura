@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>JavaScript para back-end - Alura</h1>
+    <h1>JavaScript para back-end (Alura)</h1>
     <img width=150 src='https://avatars.githubusercontent.com/u/4975968?s=200&v=4'>
 </div>
 
@@ -14,7 +14,7 @@
 
 ## Sobre
 
-Reprodução em JavaScript (NodeJS) das aulas trilha [JavaScript para back-end - Alura](https://cursos.alura.com.br/formacao-js-backend).
+Reprodução em JavaScript (NodeJS) das aulas trilha [JavaScript para back-end (Alura)](https://cursos.alura.com.br/formacao-js-backend).
 
 
 ## Requisitos
