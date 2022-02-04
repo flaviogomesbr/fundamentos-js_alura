@@ -18,7 +18,7 @@ Reprodução em JavaScript (NodeJS) das aulas trilha [JavaScript para back-end (
 
 
 ## Requisitos
-- [Visual Studio](https://visualstudio.microsoft.com/pt-br/) <br>
+- [Visual Studio Code (VSCode)](https://code.visualstudio.com/?wt.mc_id=DX_841432) <br>
 - [NodeJS](https://nodejs.org/en/) <br>
 
 ## Executando os códigos
